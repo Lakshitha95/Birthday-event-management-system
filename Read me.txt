@@ -1,0 +1,5 @@
+--Web Application - Birthdays--
+
+This application starts from User_login.php page if you have login credintials you can log as system admin or organizer or other user.If not you have to sign up for new account.System admin credintials is only for system admin and organizer credintials for selected organizers.If you log as a admin you can Add another admin or can add organizers or remove them.
+If you log as a organizer,you can create birthday events and see the participants. other users can see the birthday events and insert their participation. Both organizers and other users can see catagorized upcoming birthdays.   
+
